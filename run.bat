@@ -22,3 +22,7 @@ if exist "%CD%\requirements.txt" (
 ) else (
     echo requirements.txt does not exist
 )
+
+REM Run the Python scripts below (remove REM)
+REM echo Running the Python script...
+REM python "%CD%/src/data/file.py"
