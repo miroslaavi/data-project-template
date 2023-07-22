@@ -1,0 +1,10 @@
+{
+    "make_data": {
+        "param1": "value1",
+        "param2": "value2"
+    },
+    "build_features": {
+        "param1": "value1",
+        "param2": "value2"
+    }
+}
